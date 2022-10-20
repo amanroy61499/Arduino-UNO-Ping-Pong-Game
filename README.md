@@ -13,3 +13,5 @@ potentiometer, 16×2 LCD display, breadboard
 Arduino libraries required:
 1. LiquidCrystal.h      (https://playground.arduino.cc/Main/LiquidCrystal/)
 2. Adafruit_NeoPixel.h  (https://github.com/adafruit/Adafruit_NeoPixel)
+
+DESIGN LINK:https://www.tinkercad.com/things/9UkBQzgpblP-arduino-uno-ping-pong-game-v20/editel
